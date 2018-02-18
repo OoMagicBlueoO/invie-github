@@ -1,0 +1,41 @@
+commit 6dcc6a2e300939cfdbb1dbc9e28176cb5151622f
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 17:07:34 2018 -0600
+
+    agregando log
+
+commit 45881c443d6eae8aa113e1f0f7cd513ab315cad1
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 17:07:08 2018 -0600
+
+    agregando footer
+
+commit 0a751f675284798e18ccfba48bf8e624793b949e
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 16:27:34 2018 -0600
+
+    agregando guitarra clasica
+
+commit 8a400961c405543f43b4baaf00681b637999ca8a
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 16:26:49 2018 -0600
+
+    agregando guitarra acustica
+
+commit 6980681edefaca94f0e4bee6539ff52015318014
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 15:13:56 2018 -0600
+
+            agregando nuevo hero
+
+commit 4bd9d965fe17f77c36d881edb2bf591c9e4c456d
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 15:08:46 2018 -0600
+
+    agregando el header
+
+commit 3d0fb17a1c74f7c55dea89327d2a0bfc15319f71
+Author: Luis Hernandez <darkshield@live.com.mx>
+Date:   Sun Feb 18 14:59:09 2018 -0600
+
+    inicializar nuestro landing
